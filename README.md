@@ -1,4 +1,4 @@
-<section align=center>
+<section align=left>
 
 ![elbyss](https://capsule-render.vercel.app/api?type=Venom&height=150&text=Frontend%20Enginner&fontSize=40&color=0:d6ace6,100:185a9d)
 ### About
