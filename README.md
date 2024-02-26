@@ -1,6 +1,7 @@
-<section align=left>
+<section align=center>
 
 ![elbyss](https://capsule-render.vercel.app/api?type=Venom&height=150&text=Frontend%20Enginner&fontSize=40&color=0:d6ace6,100:185a9d)
+  
 ### About
 [![Blog](https://img.shields.io/badge/Blog-088142?style=flat&logo=naver&logoColor=03C75A)](https://blog.naver.com/elysiabyss)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:j0n9yhun@mail.com)](mailto:elysiabyss@gmail.com)
