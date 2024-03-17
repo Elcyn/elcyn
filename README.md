@@ -1,10 +1,12 @@
 <section align=center>
-
-![elbyss](https://capsule-render.vercel.app/api?type=Venom&height=150&text=Frontend%20Enginner&fontSize=40&color=0:d6ace6,100:185a9d)
   
+![elbyss](https://capsule-render.vercel.app/api?type=Venom&height=150&text=Frontend%20Enginner&fontSize=40&color=0:d6ace6,100:185a9d)
+
 ### About
 [![Blog](https://img.shields.io/badge/Blog-088142?style=flat&logo=naver&logoColor=03C75A)](https://blog.naver.com/elysiabyss)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:j0n9yhun@mail.com)](mailto:elysiabyss@gmail.com)
+
+<img align='center' src='https://mblogthumb-phinf.pstatic.net/MjAxOTEyMDNfMTEw/MDAxNTc1MzM2NjA0ODg5.-5aDmCY7AqBB1N4FpAla2RKT6zvQyNYZqC_HdaplnrAg.dNWwM9nhHSdcrlf9ITUIA3TlsSgegiGZehzQMa8BZX4g.GIF.theworkscompany/05.gif?type=w800' width='200'/>
 
 ### Skills
 [![](https://img.shields.io/badge/Next.js-000?style=flat&logo=Next.js&logoColor=#000)](https://nextjs.org/)
