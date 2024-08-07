@@ -4,7 +4,7 @@
 
 ![elbyss](https://capsule-render.vercel.app/api?type=Venom&height=150&text=Frontend%20Enginner&fontSize=40&color=0:d6ace6,100:185a9d)
 
-### Skills
+### Tech Skills
 [![](https://img.shields.io/badge/Next.js-000?style=flat&logo=Next.js&logoColor=#000)](https://nextjs.org/)
 [![](http://img.shields.io/badge/-React.js-0088cc?style=flat&logo=React)](https://ko.reactjs.org/)
 [![](http://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodemon)](https://nodejs.org/ko/) <br/>
