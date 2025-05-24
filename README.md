@@ -2,7 +2,7 @@
   
 ![elbyss](https://capsule-render.vercel.app/api?type=waving&color=0:cbe3e6,100:F8CDDA&height=100&section=header)
 
-![elbyss](https://capsule-render.vercel.app/api?type=Venom&height=150&text=Elcyn&fontSize=40&color=0:d6ace6,100:185a9d)
+![elbyss](https://capsule-render.vercel.app/api?type=Venom&height=150&text=Elcynia&fontSize=40&color=0:d6ace6,100:185a9d)
 
 [![elbyss](http://mazassumnida.wtf/api/mini/generate_badge?boj=elbyss)](https://solved.ac/elbyss)
 
